@@ -10,7 +10,7 @@
     <meta name="author" content="">
     <link rel="shortcut icon" type="image/x-icon" href="{{ asset('frontend') }}/imgs/logo/logo.png">
 
-    <title>Admin LaptopReborn</title>
+    <title>SPK SAW pemilihan Smartphone</title>
 
     <!-- Custom fonts for this template-->
     <link href="{{ asset('backend') }}/vendor/fontawesome-free/css/all.min.css" rel="stylesheet" type="text/css">
@@ -107,8 +107,8 @@
                                         </div>
                                     </div>
                                     <div>
-                                        <div class="small text-gray-500">Mei 12, 2024</div>
-                                        <span class="font-weight-bold">Pesan Baru! Pesanan Laptop Lenovo Thinkpad dari Surya Fahresa</span>
+                                        <div class="small text-gray-500">Juli 12, 2024</div>
+                                        <span class="font-weight-bold">Pesan Baru! Pesanan Smartphone ROG 8 Pro dari Deny Faishal</span>
                                     </div>
                                 </a>
                                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -118,7 +118,7 @@
                                         </div>
                                     </div>
                                     <div>
-                                        <div class="small text-gray-500">Juni 1, 2024</div>
+                                        <div class="small text-gray-500">Juni 18, 2024</div>
                                         Laporan Mei sudah siap, unduh sekarang!
                                     </div>
                                 </a>
@@ -129,8 +129,8 @@
                                         </div>
                                     </div>
                                     <div>
-                                        <div class="small text-gray-500">Juni 20, 2024</div>
-                                        Pesan Baru! Pesanan Laptop Asus dari Fikar.
+                                        <div class="small text-gray-500">Juli 22, 2024</div>
+                                        Pesan Baru! Pesanan Smartphone Pixel 7 Pro dari Safrizal.
                                     </div>
                                 </a>
                                 <a class="dropdown-item text-center small text-gray-500" href="#">Show All
@@ -158,7 +158,7 @@
                                         <div class="status-indicator bg-success"></div>
                                     </div>
                                     <div class="font-weight-bold">
-                                        <div class="text-truncate">mas laptop bajed 5juta apa bae?</div>
+                                        <div class="text-truncate">mas HP bajed 3Juta apa aja?</div>
                                         <div class="small text-gray-500">Emily Fowler · 58m</div>
                                     </div>
                                 </a>
@@ -169,7 +169,7 @@
                                     </div>
                                     <div>
                                         <div class="text-truncate">Kak kenapa aku ngg bisa pesan lewat web nya ya?</div>
-                                        <div class="small text-gray-500">Teguh · 1d</div>
+                                        <div class="small text-gray-500">Naufal · 1d</div>
                                     </div>
                                 </a>
                                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -178,8 +178,8 @@
                                         <div class="status-indicator bg-warning"></div>
                                     </div>
                                     <div>
-                                        <div class="text-truncate">Bang laptop asus tuv ada ngg ya???</div>
-                                        <div class="small text-gray-500">Ardra · 2d</div>
+                                        <div class="text-truncate">Bang HP Boba 13 pro ada ngg ya???</div>
+                                        <div class="small text-gray-500">Niko · 2d</div>
                                     </div>
                                 </a>
                                 <a class="dropdown-item d-flex align-items-center" href="#">
@@ -189,8 +189,8 @@
                                         <div class="status-indicator bg-success"></div>
                                     </div>
                                     <div>
-                                        <div class="text-truncate">Barang wis anjog mas, suwun</div>
-                                        <div class="small text-gray-500">Yujin · 2w</div>
+                                        <div class="text-truncate">Barang wis teka mas, maturnuwun</div>
+                                        <div class="small text-gray-500">Radit · 2w</div>
                                     </div>
                                 </a>
                                 <a class="dropdown-item text-center small text-gray-500" href="#">Read More
@@ -204,7 +204,7 @@
                         <li class="nav-item dropdown no-arrow">
                             <a class="nav-link dropdown-toggle" href="#" id="userDropdown" role="button"
                                 data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                                <span class="mr-2 d-none d-lg-inline text-gray-600 small">admin-fariz</span>
+                                <span class="mr-2 d-none d-lg-inline text-gray-600 small"><admin-Hafidz></admin-Hafidz></span>
                             </a>
                             <!-- Dropdown - User Information -->
                             <div class="dropdown-menu dropdown-menu-right shadow animated--grow-in"
@@ -277,7 +277,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; LaptopRebon</span>
+                        <span>Copyright &copy; HPku</span>
                     </div>
                 </div>
             </footer>

@@ -19,7 +19,7 @@
         <div class="col-md">
             <div class="card">
                 <div class="card-header d-flex justify-content-between align-items-center">
-                    <h3>Daftar Semua Laptop</h3>
+                    <h3>Daftar Semua Smartphone</h3>
                     <a href="{{route('mobils.create')}}" class="btn button">Tambah Data</a>
                 </div>
                 <div class="card-body">
@@ -32,10 +32,10 @@
                                 <th>Id</th>
                                 <th>Nama</th>
                                 <th>Harga</th>
-                                <th>Kondisi Fisik</th>
-                                <th>Spesifikasi</th>
-                                <th>Umur Laptop</th>
-                                <th>Daya Tahan Batterai</th>
+                                <th>RAM</th>
+                                <th>Memori Internal</th>
+                                <th>Layar</th>
+                                <th>Kamera</th>
                                 <th>Ketersediaan</th>
                             </tr>
                         </thead>

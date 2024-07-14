@@ -41,18 +41,17 @@ class AlternatifController extends Controller
     public function store(Request $request)
     {
         
-        $this->validate($request, [
-            'laptop_id' => 'required|exists:laptop,id',
+        $request->validate([
+            'nama' => 'required|string|max:255',
             'C1' => 'required',
             'C2' => 'required',
             'C3' => 'required',
             'C4' => 'required',
             'C5' => 'required',
         ]);
-        $laptop = Laptop::findOrFail($request->laptop_id);
-
-        $alternatif = Alternatif::create([
-            'nama' => $laptop->nama,
+    
+        Alternatif::create([
+            'nama' => $request->nama,
             'C1' => $request->C1,
             'C2' => $request->C2,
             'C3' => $request->C3,

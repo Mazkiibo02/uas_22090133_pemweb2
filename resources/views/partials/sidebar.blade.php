@@ -5,7 +5,7 @@
         <div class="sidebar-brand-icon">
             <i href="{{route('homepage')}}"></i>
         </div>
-        <div class="sidebar-brand-text mx-3">LaptopReborn.</div>
+        <div class="sidebar-brand-text mx-3">HPku.</div>
     </a>
 
     <!-- Divider -->
@@ -22,23 +22,7 @@
     <hr class="sidebar-divider">
 
     <!-- Heading -->
-    <div class="sidebar-heading">
-        Databases
-    </div>
-
-    <li class="nav-item">
-        <a class="nav-link" href="{{route('mobils.index')}}">
-            <i class="fas fa-fw fa-folder"></i>
-            <span>Data Laptop</span></a>
-    </li>
-    <li class="nav-item">
-        <a class="nav-link" href="{{route('admin.messages.index')}}">
-            <i class="fas fa-fw fa-folder"></i>
-            <span>Daftar Pesan</span></a>
-    </li>
-    <!-- Divider -->
-    <hr class="sidebar-divider">
-
+   
     <!-- Heading -->
     <div class="sidebar-heading">
         SPK

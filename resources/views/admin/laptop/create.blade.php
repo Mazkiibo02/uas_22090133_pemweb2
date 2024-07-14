@@ -25,22 +25,22 @@
                         value="{{ old('harga') }}" />
                 </div> 
                 <div class="form-group">
-                    <label for="kondisi_fisik">Kondisi Fisik</label>
+                    <label for="kondisi_fisik">RAM</label>
                     <input type="text" name="kondisi_fisik" class="form-control" placeholder="Masukan kondisi fisik"
                         value="{{ old('kondisi_fisik') }}" />
                 </div>
                 <div class="form-group">
-                    <label for="Spesifikasi">Spesifikasi</label>
+                    <label for="Spesifikasi">Memori Internal</label>
                     <input type="text" name="spesifikasi" class="form-control" placeholder="Masukan spesifikasi"
                         value="{{ old('spesifikasi') }}" />
                 </div>
                 <div class="form-group">
-                    <label for="umur_laptop">Umur Laptop</label>
+                    <label for="umur_laptop">Layar</label>
                     <input type="number" name="umur_laptop" class="form-control" placeholder="Masukan umur laptop"
                         value="{{ old('umur_laptop') }}" />
                 </div>
                 <div class="form-group">
-                    <label for="daya_tahan_batterai">Daya Tahan Baterai</label>
+                    <label for="daya_tahan_batterai">Kamera</label>
                     <input type="text" name="daya_tahan_batterai" class="form-control" placeholder="Masukan daya tahan batterai"
                     value="{{old('daya_tahan_batterai') }}"/>
                 </div>

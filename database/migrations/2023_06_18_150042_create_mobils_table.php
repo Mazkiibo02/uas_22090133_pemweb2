@@ -13,16 +13,15 @@ return new class extends Migration
      */
     public function up()
     {
-        Schema::create('laptop', function (Blueprint $table) {
+        Schema::create('smartphone', function (Blueprint $table) {
             $table->id();
             $table->string('nama')->unique();
             $table->string('slug')->unique();
             $table->integer('harga');
-            $table->string('kondisi_fisik');
-            $table->string('spesifikasi');
-            $table->string('umur_laptop');
-            $table->integer('daya_tahan_batterai');
-            $table->string('Ketersediaan');
+            $table->integer('ram');
+            $table->integer('memori_internal');
+            $table->string('kamera');
+           
             $table->timestamps();
         });
     }
@@ -34,6 +33,6 @@ return new class extends Migration
      */
     public function down()
     {
-        Schema::dropIfExists('laptop');
+        Schema::dropIfExists('smartphone');
     }
 };

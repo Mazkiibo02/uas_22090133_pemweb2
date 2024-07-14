@@ -24,42 +24,28 @@
         <div class="card-body">
             <form action="{{ route('alternatif.store') }}" method="POST">
                 @csrf
-                <div class="mb-3 row">
-                    <label for="laptop_id" class="col-2 text-end">Laptop</label>
-                    <div class="col-10">
-                        <select class="form-select form-select-sm @error('laptop_id') is-invalid @enderror" id="laptop_id" name="laptop_id" required>
-                            <option value="">-- Pilih Laptop --</option>
-                            @foreach ($laptops as $laptop)
-                                <option value="{{ $laptop->id }}" {{ old('laptop_id') == $laptop->id ? 'selected' : '' }}>
-                                    {{ $laptop->nama }}
-                                </option>
-                            @endforeach
-                        </select>
-                        @error('laptop_id')
-                            <div class="invalid-feedback">
-                                {{ $message }}
-                            </div>
-                        @enderror
-                    </div>
+                <div class="form-group">
+                    <label>Nama</label>
+                    <input type="text" class="form-control" name="nama" value="{{ old('nama') }}">
                 </div>
                 <div class="form-group">
                     <label>Harga</label>
                     <input type="number" class="form-control" name="C1" value="{{ old('C1') }}">
                 </div>
                 <div class="form-group">
-                    <label>Kondisi Fisik</label>
+                    <label>Ram</label>
                     <input type="number" class="form-control" name="C2" value="{{ old('C2') }}">
                 </div>
                 <div class="form-group">
-                    <label>Spesifikasi</label>
+                    <label>Memori Internal</label>
                     <input type="number" class="form-control" name="C3" value="{{ old('C3') }}">
                 </div>
                 <div class="form-group">
-                    <label>Umur Laptop</label>
+                    <label>Layar</label>
                     <input type="number" class="form-control" name="C4" value="{{ old('C4') }}">
                 </div>
                 <div class="form-group">
-                    <label>Daya Tahan Baterai</label>
+                    <label>Kamera</label>
                     <input type="number" class="form-control" name="C5" value="{{ old('C5') }}">
                 </div>
                 <div class="form-group">

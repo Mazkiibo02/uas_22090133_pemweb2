@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8">
-    <title>Laptop Reborn</title>
+    <title>HPku</title>
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="description" content="">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -71,24 +71,24 @@
             <div class="footer-column">
                 <h5 class="footer-title">Kontak</h5>
                 <p class="contact-info">
-                    <strong>Alamat: </strong>Margadana, Kota Tegal.
+                    <strong>Alamat: </strong>Krandon, Kota Tegal.
                 </p>
                 <p class="contact-info">
-                    <strong>Telepon: </strong>0818-0259-4808
+                    <strong>Telepon: </strong>0896-3051-7466
                 </p>
                 <p class="contact-info">
-                    <strong>Email: </strong>mohfariz88@gmail.com
+                    <strong>Email: </strong>hafidzr.smkn3tgl@gmail.com
                 </p>
             </div>
             <div class="footer-column">
                 <h5 class="footer-title">Install Aplikasi</h5>
-                <p class="app-info">Temukan laptop bekas berkualitas dengan harga terbaik di sini. Kami menyediakan pilihan lengkap untuk berbagai kebutuhan, dari pelajar hingga profesional. Dapatkan laptop impian Anda sekarang dan nikmati pengalaman belanja yang memuaskan!</p>
+                <p class="app-info">Temukan SMartphone berkualitas dengan harga terbaik di sini. Kami menyediakan pilihan lengkap untuk berbagai kebutuhan, dari pelajar hingga profesional. Dapatkan Smaertphone impian Anda sekarang dan nikmati pengalaman belanja yang memuaskan!</p>
             </div>
             <div class="footer-column">
                 <h5 class="footer-title">Ikuti Kami</h5>
                 <div class="social-icons">
                     <a href="#"><img src="frontend/imgs/theme/icons/icon-facebook.svg" alt="Facebook"></a>
-                    <a href="https://www.instagram.com/mochfarriiiz"><img src="frontend/imgs/theme/icons/icon-instagram.svg" alt="Instagram"></a>
+                    <a href="https://www.instagram.com/kiibo0202"><img src="frontend/imgs/theme/icons/icon-instagram.svg" alt="Instagram"></a>
                     <a href="#"><img src="frontend/imgs/theme/icons/icon-pinterest.svg" alt="Pinterest"></a>
                     <a href="#"><img src="frontend/imgs/theme/icons/icon-youtube.svg" alt="YouTube"></a>
                 </div>
@@ -101,7 +101,7 @@
                     <a href="privacy-policy.html">Privacy Policy</a> | <a href="terms-conditions.html">Terms & Conditions</a>
                 </p>
                 <p class="text-right">
-                    &copy; <strong class="text-brand">mylaptop</strong> All rights reserved
+                    &copy; <strong class="text-brand">HPku</strong> All rights reserved
                 </p>
             </div>
         </div>

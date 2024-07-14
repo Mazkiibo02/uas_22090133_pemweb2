@@ -33,19 +33,19 @@
                 <input type="number" class="form-control" name="C1" value="{{ $alternatif->C1 }}">
             </div>
             <div class="form-group">
-                <label>Kondisi Fisik</label>
+                <label>RAM</label>
                 <input type="number" class="form-control" name="C2" value="{{ $alternatif->C2 }}">
             </div>
             <div class="form-group">
-                <label>Spesifikasi</label>
+                <label>Memori Internal</label>
                 <input type="number" class="form-control" name="C3" value="{{ $alternatif->C3 }}">
             </div>
             <div class="form-group">
-                <label>Umur Laptop</label>
+                <label>Layar</label>
                 <input type="number" class="form-control" name="C4" value="{{ $alternatif->C4 }}">
             </div>
             <div class="form-group">
-                <label>Daya Tahan Batterai</label>
+                <label>Kamera</label>
                 <input type="number" class="form-control" name="C5" value="{{ $alternatif->C5 }}">
             </div>
 
