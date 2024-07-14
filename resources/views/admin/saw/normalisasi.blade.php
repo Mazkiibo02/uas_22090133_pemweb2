@@ -9,10 +9,10 @@
                 <tr>
                     <th>Nama</th>
                     <th>Harga</th>
-                    <th>Kondisi Fisik</th>
-                    <th>Spesifikasi</th>
-                    <th>Umur Laptop</th>
-                    <th>Daya Tahan Batterai</th>
+                    <th>RAM</th>
+                    <th>Memori Internal</th>
+                    <th>Kamera</th>
+                    <th>Layar</th>
                 </tr>
             </thead>
             <tbody>

@@ -8,11 +8,12 @@
         <table class="table table-bordered" id="" width="100%" cellspacing="0">
             <thead>
                 <tr>
+                    <th>Nama</th>
                     <th>Harga</th>
-                    <th>Kondisi Fisik</th>
-                    <th>Spesifikasi</th>
-                    <th>Umur Laptop</th>
-                    <th>Daya Tahan Batterai</th>
+                    <th>RAM</th>
+                    <th>Memori Internal</th>
+                    <th>Kamera</th>
+                    <th>Layar</th>
                 </tr>   
             </thead>
             <tbody>
@@ -35,7 +36,7 @@
 <!-- DataTales Example -->
 <div class="card shadow mb-4">
     <div class="card-header py-3">
-        <h5 class="m-0 font-weight-bold text-primary">Hasil Pemilihan Laptop Bekas Terbaik</h5>
+        <h5 class="m-0 font-weight-bold text-primary">Hasil Pemilihan Smartphone Terbaik</h5>
     </div>
     <div class="card-body">
         <table class="table table-bordered" id="" width="100%" cellspacing="0">
